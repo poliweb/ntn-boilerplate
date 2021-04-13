@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cb2d4cc5-8a65-4940-81ce-4456ff96e6db/deploy-status)](https://app.netlify.com/sites/ntn-boilerplate/deploys) ← replace with [your own](https://app.netlify.com/sites/YOUR_NETLIFY_SITE_SLUG/settings/general#deploy-status-badge)
 
-**[Live Demo](https://ntn-boilerplate.netlify.app/)**
+**[Live Demo](https://romantic-hermann-7bb3f4.netlify.app)
 
 An opinionated starter template for a quick start with the following technologies up on a site after only 5 minutes!
 
